@@ -1,4 +1,4 @@
-name: Automated API Tests using CI pipelines through Postman
+name: Automated API Tests using CI pipelines through Postmans
 
 on: push
 
